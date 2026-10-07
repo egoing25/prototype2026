@@ -11,7 +11,7 @@ function App() {
     <>
       <section id="center">
         <div>
-          <h1>프로젝트 메인 화면</h1>
+          <h1>프로젝트 메인 화면면</h1>
         </div>
         <button
           type="button"
